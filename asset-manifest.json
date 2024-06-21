@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shinee-fansite/static/css/main.9360e4fa.chunk.css",
-    "main.js": "/shinee-fansite/static/js/main.5971e7d1.chunk.js",
-    "main.js.map": "/shinee-fansite/static/js/main.5971e7d1.chunk.js.map",
+    "main.css": "/shinee-fansite/static/css/main.70cbe548.chunk.css",
+    "main.js": "/shinee-fansite/static/js/main.3e4e03e1.chunk.js",
+    "main.js.map": "/shinee-fansite/static/js/main.3e4e03e1.chunk.js.map",
     "runtime-main.js": "/shinee-fansite/static/js/runtime-main.909a059d.js",
     "runtime-main.js.map": "/shinee-fansite/static/js/runtime-main.909a059d.js.map",
     "static/css/2.98036eff.chunk.css": "/shinee-fansite/static/css/2.98036eff.chunk.css",
@@ -11,17 +11,17 @@
     "static/js/3.572f48cd.chunk.js": "/shinee-fansite/static/js/3.572f48cd.chunk.js",
     "static/js/3.572f48cd.chunk.js.map": "/shinee-fansite/static/js/3.572f48cd.chunk.js.map",
     "index.html": "/shinee-fansite/index.html",
-    "precache-manifest.a38e8a56a72b10963700e81410b260c6.js": "/shinee-fansite/precache-manifest.a38e8a56a72b10963700e81410b260c6.js",
+    "precache-manifest.dc017dee5fd017a630116e34e235b19e.js": "/shinee-fansite/precache-manifest.dc017dee5fd017a630116e34e235b19e.js",
     "service-worker.js": "/shinee-fansite/service-worker.js",
     "static/css/2.98036eff.chunk.css.map": "/shinee-fansite/static/css/2.98036eff.chunk.css.map",
-    "static/css/main.9360e4fa.chunk.css.map": "/shinee-fansite/static/css/main.9360e4fa.chunk.css.map",
+    "static/css/main.70cbe548.chunk.css.map": "/shinee-fansite/static/css/main.70cbe548.chunk.css.map",
     "static/js/2.ac4cabe5.chunk.js.LICENSE.txt": "/shinee-fansite/static/js/2.ac4cabe5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.909a059d.js",
     "static/css/2.98036eff.chunk.css",
     "static/js/2.ac4cabe5.chunk.js",
-    "static/css/main.9360e4fa.chunk.css",
-    "static/js/main.5971e7d1.chunk.js"
+    "static/css/main.70cbe548.chunk.css",
+    "static/js/main.3e4e03e1.chunk.js"
   ]
 }
