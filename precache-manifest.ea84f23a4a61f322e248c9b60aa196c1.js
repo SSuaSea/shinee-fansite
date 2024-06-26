@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad66299be8e609dc40bd99abf7886c44",
+    "revision": "0e3480b3fdeccb6812c304a3b514c1b1",
     "url": "/shinee-fansite/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shinee-fansite/static/css/2.98036eff.chunk.css"
   },
   {
-    "revision": "2ac71ab88c5141d4d90e",
-    "url": "/shinee-fansite/static/css/main.f3496568.chunk.css"
+    "revision": "521c9dd70b639a9b185b",
+    "url": "/shinee-fansite/static/css/main.40824b3a.chunk.css"
   },
   {
     "revision": "45c24dcac6126b9e1481",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shinee-fansite/static/js/3.f368b8e2.chunk.js"
   },
   {
-    "revision": "2ac71ab88c5141d4d90e",
+    "revision": "521c9dd70b639a9b185b",
     "url": "/shinee-fansite/static/js/main.7d07e625.chunk.js"
   },
   {
